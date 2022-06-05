@@ -1,5 +1,4 @@
-# Filter Bank Common Spatial Pattern (FBCSP)
-in Brain-Computer Interface
+# Filter Bank Common Spatial Pattern (FBCSP) in Brain-Computer Interface
 ----
 The implementation is based on the paper titled "Filter Bank Common Spatial Pattern (FBCSP)
 in Brain-Computer Interface"<sup>[1]</sup> using scikit-learn<sup>[2]</sup> and TensorBoard<sup>[3]</sup>. 

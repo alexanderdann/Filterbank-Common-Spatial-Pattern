@@ -1,0 +1,67 @@
+{
+    "Markers": [
+        {
+            "endDatetime": "2022-02-24T13:53:59.221915+01:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "left",
+            "originalEndDatetime": "2022-02-24T13:53:59.222023+01:00",
+            "originalStartDatetime": "2022-02-24T13:53:59.222023+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T13:53:59.221915+01:00",
+            "type": "instance",
+            "uuid": "c6290ce4-2d93-42c7-a8fe-834bc48d18cc",
+            "value": 2
+        },
+        {
+            "endDatetime": "2022-02-24T13:54:05.750670+01:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "neutral",
+            "originalEndDatetime": "2022-02-24T13:54:05.749991+01:00",
+            "originalStartDatetime": "2022-02-24T13:54:05.749991+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T13:54:05.750670+01:00",
+            "type": "instance",
+            "uuid": "7cc7eb30-78a7-4210-a7a0-d9f87f8cff5f",
+            "value": 0
+        },
+        {
+            "endDatetime": "2022-02-24T13:54:11.790853+01:00",
+            "extras": {
+            },
+            "index": 3,
+            "label": "forward",
+            "originalEndDatetime": "2022-02-24T13:54:11.789559+01:00",
+            "originalStartDatetime": "2022-02-24T13:54:11.789559+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T13:54:11.790853+01:00",
+            "type": "instance",
+            "uuid": "653f789e-876c-4893-8857-9c12dc6c24f9",
+            "value": 1
+        },
+        {
+            "endDatetime": "2022-02-24T13:54:18.398411+01:00",
+            "extras": {
+            },
+            "index": 4,
+            "label": "right",
+            "originalEndDatetime": "2022-02-24T13:54:18.398220+01:00",
+            "originalStartDatetime": "2022-02-24T13:54:18.398220+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T13:54:18.398411+01:00",
+            "type": "instance",
+            "uuid": "f3576139-6e8b-4640-b453-506ae1dd48ee",
+            "value": 3
+        }
+    ],
+    "connectionType": "dongle",
+    "exportApp": "com.emotiv_sst.pg_20",
+    "exportTime": "2022-02-24T13:54:29.152+01:00",
+    "headsetType": "EPOCPLUS",
+    "mappings": null,
+    "recordId": "e5d3f10c-7024-49c9-acb7-7309142ce42c",
+    "user": "emotiv_sst"
+}

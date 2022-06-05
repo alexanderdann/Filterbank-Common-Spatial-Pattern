@@ -1,0 +1,179 @@
+{
+    "Markers": [
+        {
+            "endDatetime": "2022-02-24T14:19:40.729926+01:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "forward",
+            "originalEndDatetime": "2022-02-24T14:19:40.730102+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:40.730102+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:40.729926+01:00",
+            "type": "instance",
+            "uuid": "cc017420-0bfa-42eb-8d77-d55a7b74ff27",
+            "value": 1
+        },
+        {
+            "endDatetime": "2022-02-24T14:19:40.863886+01:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "forward",
+            "originalEndDatetime": "2022-02-24T14:19:40.862478+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:40.862478+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:40.863886+01:00",
+            "type": "instance",
+            "uuid": "32a3aeff-5376-4ce0-bc3b-5aaf02a871dd",
+            "value": 1
+        },
+        {
+            "endDatetime": "2022-02-24T14:19:47.435841+01:00",
+            "extras": {
+            },
+            "index": 3,
+            "label": "right",
+            "originalEndDatetime": "2022-02-24T14:19:47.434937+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:47.434937+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:47.435841+01:00",
+            "type": "instance",
+            "uuid": "e556c745-af8d-42a8-ab74-45a64e2a3ec0",
+            "value": 3
+        },
+        {
+            "endDatetime": "2022-02-24T14:19:47.487062+01:00",
+            "extras": {
+            },
+            "index": 4,
+            "label": "right",
+            "originalEndDatetime": "2022-02-24T14:19:47.488730+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:47.488730+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:47.487062+01:00",
+            "type": "instance",
+            "uuid": "5db4b5cb-5d8d-4593-9547-aa46e8592ad8",
+            "value": 3
+        },
+        {
+            "endDatetime": "2022-02-24T14:19:47.522522+01:00",
+            "extras": {
+            },
+            "index": 5,
+            "label": "right",
+            "originalEndDatetime": "2022-02-24T14:19:47.522109+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:47.522109+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:47.522522+01:00",
+            "type": "instance",
+            "uuid": "d7d18a1a-ac67-4c47-a889-67820e6b91a0",
+            "value": 3
+        },
+        {
+            "endDatetime": "2022-02-24T14:19:47.565862+01:00",
+            "extras": {
+            },
+            "index": 6,
+            "label": "right",
+            "originalEndDatetime": "2022-02-24T14:19:47.566507+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:47.566507+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:47.565862+01:00",
+            "type": "instance",
+            "uuid": "d9e24001-0de0-4220-baba-3f2622d324b7",
+            "value": 3
+        },
+        {
+            "endDatetime": "2022-02-24T14:19:54.129938+01:00",
+            "extras": {
+            },
+            "index": 7,
+            "label": "left",
+            "originalEndDatetime": "2022-02-24T14:19:54.130598+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:54.130598+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:54.129938+01:00",
+            "type": "instance",
+            "uuid": "cde95ee6-929d-4eda-8b25-a7258e11b7e2",
+            "value": 2
+        },
+        {
+            "endDatetime": "2022-02-24T14:19:54.192978+01:00",
+            "extras": {
+            },
+            "index": 8,
+            "label": "left",
+            "originalEndDatetime": "2022-02-24T14:19:54.194642+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:54.194642+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:54.192978+01:00",
+            "type": "instance",
+            "uuid": "961e03ae-1b81-4f37-988e-8fdd38742c1f",
+            "value": 2
+        },
+        {
+            "endDatetime": "2022-02-24T14:19:54.208738+01:00",
+            "extras": {
+            },
+            "index": 9,
+            "label": "left",
+            "originalEndDatetime": "2022-02-24T14:19:54.210233+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:54.210233+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:54.208738+01:00",
+            "type": "instance",
+            "uuid": "7725c863-05e4-4412-a6c2-efb7c7211824",
+            "value": 2
+        },
+        {
+            "endDatetime": "2022-02-24T14:19:54.216618+01:00",
+            "extras": {
+            },
+            "index": 10,
+            "label": "left",
+            "originalEndDatetime": "2022-02-24T14:19:54.215462+01:00",
+            "originalStartDatetime": "2022-02-24T14:19:54.215462+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:19:54.216618+01:00",
+            "type": "instance",
+            "uuid": "0313516c-c067-4240-8561-aac8003f29aa",
+            "value": 2
+        },
+        {
+            "endDatetime": "2022-02-24T14:20:00.351231+01:00",
+            "extras": {
+            },
+            "index": 11,
+            "label": "neutral",
+            "originalEndDatetime": "2022-02-24T14:20:00.350779+01:00",
+            "originalStartDatetime": "2022-02-24T14:20:00.350779+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:20:00.351231+01:00",
+            "type": "instance",
+            "uuid": "3a870224-ebda-47ba-834e-ff5f2999bcfe",
+            "value": 0
+        },
+        {
+            "endDatetime": "2022-02-24T14:20:00.461552+01:00",
+            "extras": {
+            },
+            "index": 12,
+            "label": "neutral",
+            "originalEndDatetime": "2022-02-24T14:20:00.463244+01:00",
+            "originalStartDatetime": "2022-02-24T14:20:00.463244+01:00",
+            "port": "Software",
+            "startDatetime": "2022-02-24T14:20:00.461552+01:00",
+            "type": "instance",
+            "uuid": "7f3160ee-f533-4745-95e4-6fdef79420a1",
+            "value": 0
+        }
+    ],
+    "connectionType": "dongle",
+    "exportApp": "com.emotiv_sst.pg_20",
+    "exportTime": "2022-02-24T14:20:09.012+01:00",
+    "headsetType": "EPOCPLUS",
+    "mappings": null,
+    "recordId": "abfa37ec-6360-448f-bd9b-06de53a75ef7",
+    "user": "emotiv_sst"
+}

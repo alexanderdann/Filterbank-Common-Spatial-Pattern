@@ -1,6 +1,8 @@
-# One dimension-aggregate approximation long short-term memory (1d-AX-LSTM)
+# Filter Bank Common Spatial Pattern (FBCSP)
+in Brain-Computer Interface
 ----
-The implementation is based on the paper titled "LSTM-Based EEG Classification in Motor Imagery Tasks<sup>[1]</sup> using scikit-learn<sup>[2]</sup> and TensorBoard<sup>[3]</sup>. 
+The implementation is based on the paper titled "Filter Bank Common Spatial Pattern (FBCSP)
+in Brain-Computer Interface"<sup>[1]</sup> using scikit-learn<sup>[2]</sup> and TensorBoard<sup>[3]</sup>. 
 Used and optimized for different datasets<sup>[4, 5]</sup> which include motor imagery and a hybrid approach of motor imagery and thoughts about facial movements. The hybrid dataset was collected in the course of the project titled 'GoPiGo Navigation using EEG signals' at the University Paderborn. An Epoch Plus headset using 14 electrodes at a sampling rate of 256 Hz was used to collect the data<sup>[6]</sup>.
 
 # References
